@@ -1,0 +1,10 @@
+{
+  "name": "guiaeia",
+  "version": "1.0.0",
+  "description": "Asistente virtual de induccion para estudiantes de la Universidad EIA",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
